@@ -72,5 +72,5 @@ export function DesLandingPage() {
         <p>© {new Date().getFullYear()} Des Fan Club. All paws reserved.</p>
       </footer>
     </div>
-  )
+  );
 }
